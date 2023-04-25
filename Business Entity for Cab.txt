@@ -1,0 +1,35 @@
+A) Business Entity
+       Customer
+	   Driver
+	   Owner
+	   Customer Service Admin
+	   Driver and Vehical Managing Admin 
+	   Payment Managing Admin
+		
+B) Business Operations 
+       Booking 
+	   Manage
+	   Tracking
+	   Payment 
+	   Safety
+	   Sceduling
+	   Connect
+	   issues 
+	   Renting
+	   Navigate
+	   Arrival
+	   Processing
+	   Billing
+	   Generate(Recipt)
+	   
+	   
+
+C) Modules 
+      Taxi Booking and Sceduling
+	  Real time tracking and monitoring
+	  Payment Processing and Billing
+      Feedback and rating System
+      Driver and Vehical Management	  
+	  Customer Support
+	  Admin Dashboard
+	 

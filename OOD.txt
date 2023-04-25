@@ -1,0 +1,42 @@
+Object Oriented Design
+ 
+    Module and Classes List
+        1) Registration and Login  
+                 Registration 
+                 Customer  
+                 Driver
+                 Login 
+
+        2) Cab Booking and Sceduling
+                 Location(pickup and drop)
+                 Booking  cab
+                 Scheduling cab(FUTURE TRIP) 
+ 	 Cancel cab
+	  
+        3) Realtime Tracking and Monitoring
+                  Location
+                  Region
+
+        4) Payment Processing and Billing
+                  Recipt
+                  Drivers Payment
+                  Payment Gateway
+                    Mode of Payment
+                       cash,UPI
+                 
+        5) Feedback and Rating
+                  Comments
+                  Driver Ranking
+                  Customer Ranking
+ 
+        6) Administration 
+                 Main Admin
+                 Customer and Drivers Admin.
+                            Driver Authentication 
+                 Vehical Management Admin
+                            Vehical Authentication
+
+        7) Customer and Driver Support
+                 
+              
+        
